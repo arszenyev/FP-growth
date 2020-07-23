@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0148a9c5-d4f3-4756-9fc3-5594713d64e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pattern_discovery" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XPHBx6Q3eSJvE6yciZV6HumN7J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GRG\pattern_discovery" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test_and_do_metrics (1)">
+    <configuration name="apriori" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pattern_discovery" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/apriori.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="conditional_fp_tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pattern_discovery" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conditional_fp_tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fp_growth" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pattern_discovery" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fp_growth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fp_growth" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pattern_discovery" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\GRG\pattern_discovery\fp_growth.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_and_do_metrics (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pattern_discovery" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_and_do_metrics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_and_do_metrics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pattern_discovery" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\GRG\pattern_discovery\test_and_do_metrics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_and_do_metrics (1)" />
+        <item itemvalue="Python.apriori" />
+        <item itemvalue="Python.fp_growth" />
+        <item itemvalue="Python.test_and_do_metrics" />
+        <item itemvalue="Python.conditional_fp_tree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0148a9c5-d4f3-4756-9fc3-5594713d64e5" name="Default Changelist" comment="" />
+      <created>1577120576701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577120576701</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Upgrade, to be tested, bugfixed">
+      <created>1591279372443</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591279372443</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Small changes in test_and_do_metrics">
+      <created>1595533462803</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595533462803</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Upgrade, to be tested, bugfixed" />
+    <MESSAGE value="Small changes in test_and_do_metrics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Small changes in test_and_do_metrics" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="236" y="0" key="CommitChangelistDialog2" timestamp="1595533460742">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="236" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1595533460742" />
+    <state x="43" y="73" key="DiffContextDialog" timestamp="1591279339162">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="43" y="73" key="DiffContextDialog/0.0.1600.860@0.0.1600.860" timestamp="1591279339162" />
+    <state width="1573" height="330" key="GridCell.Tab.0.bottom" timestamp="1595533396505">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1573" height="330" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1595533396505" />
+    <state width="1514" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1588516930131" />
+    <state width="1573" height="330" key="GridCell.Tab.0.center" timestamp="1595533396505">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1573" height="330" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1595533396505" />
+    <state width="1514" height="305" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1588516930131" />
+    <state width="1573" height="330" key="GridCell.Tab.0.left" timestamp="1595533396505">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1573" height="330" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1595533396505" />
+    <state width="1514" height="305" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1588516930131" />
+    <state width="1573" height="330" key="GridCell.Tab.0.right" timestamp="1595533396505">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1573" height="330" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1595533396505" />
+    <state width="1514" height="305" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1588516930131" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1587415196755">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1587415196755" />
+    <state width="623" height="498" key="SwitcherDM" timestamp="1587305912321">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="623" height="498" key="SwitcherDM/0.0.1600.860@0.0.1600.860" timestamp="1587305912321" />
+    <state x="182" y="98" key="Vcs.Push.Dialog.v2" timestamp="1595533465375">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="98" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1595533465375" />
+    <state x="547" y="300" key="com.intellij.ide.util.TipDialog" timestamp="1588424351463">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="547" y="300" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1588424351463" />
+    <state x="656" y="405" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1588021323209" />
+    <state x="167" y="246" width="903" height="367" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1587415158856">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="167" y="246" width="903" height="367" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1600.860@0.0.1600.860" timestamp="1587415158856" />
+    <state x="63" y="181" width="840" height="678" key="search.everywhere.popup" timestamp="1587308333959">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="63" y="181" width="840" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1587308333959" />
+  </component>
+</project>
