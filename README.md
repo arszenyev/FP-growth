@@ -1,4 +1,4 @@
-Frequency pattern growth algorithm for mining frequent itemsets in a given
+Pure python Frequency pattern growth algorithm for mining frequent itemsets in a given
 dataset as described in
 
 Data mining : concepts and techniques / Jiawei Han, Micheline Kamber, Jian Pei.
